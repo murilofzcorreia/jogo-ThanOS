@@ -1,0 +1,3404 @@
+{
+  "versoes": [
+    {
+      "versao": "so1",
+      "titulo": "Apresentação SO 1",
+      "arquivo": "ThanOS_SO1.pptx",
+      "total": 156,
+      "gemas": [
+        "poder",
+        "tempo",
+        "espaco"
+      ],
+      "inicio": 0,
+      "fimSalao": 3,
+      "fim": "fim_so1",
+      "slides": [
+        {
+          "num": 1,
+          "key": "capa",
+          "tipo": "capa",
+          "next": 2,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 2,
+          "key": "conversa_1",
+          "tipo": "conversa",
+          "next": 3,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 3,
+          "key": "conversa_2",
+          "tipo": "conversa",
+          "next": 4,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 4,
+          "key": "conversa_3",
+          "tipo": "conversa",
+          "next": 5,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 5,
+          "key": "conversa_4",
+          "tipo": "conversa",
+          "next": 6,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 6,
+          "key": "conversa_5",
+          "tipo": "conversa",
+          "next": 7,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 7,
+          "key": "conversa_6",
+          "tipo": "conversa",
+          "next": 8,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 8,
+          "key": "conversa_7",
+          "tipo": "conversa",
+          "next": 9,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 9,
+          "key": "conversa_8",
+          "tipo": "conversa",
+          "next": 10,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 10,
+          "key": "salao_0",
+          "tipo": "salao",
+          "next": 11,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 11,
+          "key": "chegada_poder_1",
+          "tipo": "chegada",
+          "next": 12,
+          "etapa": null,
+          "gem": "poder"
+        },
+        {
+          "num": 12,
+          "key": "chegada_poder_2",
+          "tipo": "chegada",
+          "next": 13,
+          "etapa": null,
+          "gem": "poder"
+        },
+        {
+          "num": 13,
+          "key": "chegada_poder_3",
+          "tipo": "chegada",
+          "next": 14,
+          "etapa": null,
+          "gem": "poder"
+        },
+        {
+          "num": 14,
+          "key": "intro_poder",
+          "tipo": "intro",
+          "next": 15,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 15,
+          "key": "e01",
+          "tipo": "etapa",
+          "next": 16,
+          "etapa": 1,
+          "gem": "poder"
+        },
+        {
+          "num": 16,
+          "key": "e01_ok",
+          "tipo": "ok",
+          "next": 17,
+          "etapa": 1,
+          "gem": "poder"
+        },
+        {
+          "num": 17,
+          "key": "e02",
+          "tipo": "etapa",
+          "next": 18,
+          "etapa": 2,
+          "gem": "poder"
+        },
+        {
+          "num": 18,
+          "key": "e02_ok",
+          "tipo": "ok",
+          "next": 19,
+          "etapa": 2,
+          "gem": "poder"
+        },
+        {
+          "num": 19,
+          "key": "e03",
+          "tipo": "etapa",
+          "next": 20,
+          "etapa": 3,
+          "gem": "poder"
+        },
+        {
+          "num": 20,
+          "key": "e03_ok",
+          "tipo": "ok",
+          "next": 21,
+          "etapa": 3,
+          "gem": "poder"
+        },
+        {
+          "num": 21,
+          "key": "e04",
+          "tipo": "etapa",
+          "next": 22,
+          "etapa": 4,
+          "gem": "poder"
+        },
+        {
+          "num": 22,
+          "key": "e04_ok",
+          "tipo": "ok",
+          "next": 23,
+          "etapa": 4,
+          "gem": "poder"
+        },
+        {
+          "num": 23,
+          "key": "e05",
+          "tipo": "etapa",
+          "next": 24,
+          "etapa": 5,
+          "gem": "poder"
+        },
+        {
+          "num": 24,
+          "key": "e05_ok",
+          "tipo": "ok",
+          "next": 25,
+          "etapa": 5,
+          "gem": "poder"
+        },
+        {
+          "num": 25,
+          "key": "e06",
+          "tipo": "etapa",
+          "next": 26,
+          "etapa": 6,
+          "gem": "poder"
+        },
+        {
+          "num": 26,
+          "key": "e06_ok",
+          "tipo": "ok",
+          "next": 27,
+          "etapa": 6,
+          "gem": "poder"
+        },
+        {
+          "num": 27,
+          "key": "e07",
+          "tipo": "etapa",
+          "next": 28,
+          "etapa": 7,
+          "gem": "poder"
+        },
+        {
+          "num": 28,
+          "key": "e07_ok",
+          "tipo": "ok",
+          "next": 29,
+          "etapa": 7,
+          "gem": "poder"
+        },
+        {
+          "num": 29,
+          "key": "conquista_poder",
+          "tipo": "conquista",
+          "next": 30,
+          "etapa": null,
+          "gem": "poder"
+        },
+        {
+          "num": 30,
+          "key": "salao_1",
+          "tipo": "salao",
+          "next": 31,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 31,
+          "key": "chegada_tempo_1",
+          "tipo": "chegada",
+          "next": 32,
+          "etapa": null,
+          "gem": "tempo"
+        },
+        {
+          "num": 32,
+          "key": "chegada_tempo_2",
+          "tipo": "chegada",
+          "next": 33,
+          "etapa": null,
+          "gem": "tempo"
+        },
+        {
+          "num": 33,
+          "key": "chegada_tempo_3",
+          "tipo": "chegada",
+          "next": 34,
+          "etapa": null,
+          "gem": "tempo"
+        },
+        {
+          "num": 34,
+          "key": "intro_tempo",
+          "tipo": "intro",
+          "next": 35,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 35,
+          "key": "e08",
+          "tipo": "etapa",
+          "next": 36,
+          "etapa": 8,
+          "gem": "tempo"
+        },
+        {
+          "num": 36,
+          "key": "e08_ok",
+          "tipo": "ok",
+          "next": 37,
+          "etapa": 8,
+          "gem": "tempo"
+        },
+        {
+          "num": 37,
+          "key": "e09",
+          "tipo": "etapa",
+          "next": 38,
+          "etapa": 9,
+          "gem": "tempo"
+        },
+        {
+          "num": 38,
+          "key": "e09_ok",
+          "tipo": "ok",
+          "next": 39,
+          "etapa": 9,
+          "gem": "tempo"
+        },
+        {
+          "num": 39,
+          "key": "e10",
+          "tipo": "etapa",
+          "next": 40,
+          "etapa": 10,
+          "gem": "tempo"
+        },
+        {
+          "num": 40,
+          "key": "e10_ok",
+          "tipo": "ok",
+          "next": 41,
+          "etapa": 10,
+          "gem": "tempo"
+        },
+        {
+          "num": 41,
+          "key": "e11",
+          "tipo": "etapa",
+          "next": 42,
+          "etapa": 11,
+          "gem": "tempo"
+        },
+        {
+          "num": 42,
+          "key": "e11_ok",
+          "tipo": "ok",
+          "next": 43,
+          "etapa": 11,
+          "gem": "tempo"
+        },
+        {
+          "num": 43,
+          "key": "e12",
+          "tipo": "etapa",
+          "next": 44,
+          "etapa": 12,
+          "gem": "tempo"
+        },
+        {
+          "num": 44,
+          "key": "e12_ok",
+          "tipo": "ok",
+          "next": 45,
+          "etapa": 12,
+          "gem": "tempo"
+        },
+        {
+          "num": 45,
+          "key": "e13",
+          "tipo": "etapa",
+          "next": 46,
+          "etapa": 13,
+          "gem": "tempo"
+        },
+        {
+          "num": 46,
+          "key": "e13_ok",
+          "tipo": "ok",
+          "next": 47,
+          "etapa": 13,
+          "gem": "tempo"
+        },
+        {
+          "num": 47,
+          "key": "e14",
+          "tipo": "etapa",
+          "next": 48,
+          "etapa": 14,
+          "gem": "tempo"
+        },
+        {
+          "num": 48,
+          "key": "e14_ok",
+          "tipo": "ok",
+          "next": 49,
+          "etapa": 14,
+          "gem": "tempo"
+        },
+        {
+          "num": 49,
+          "key": "e15",
+          "tipo": "etapa",
+          "next": 50,
+          "etapa": 15,
+          "gem": "tempo"
+        },
+        {
+          "num": 50,
+          "key": "e15_ok",
+          "tipo": "ok",
+          "next": 51,
+          "etapa": 15,
+          "gem": "tempo"
+        },
+        {
+          "num": 51,
+          "key": "e16",
+          "tipo": "etapa",
+          "next": 52,
+          "etapa": 16,
+          "gem": "tempo"
+        },
+        {
+          "num": 52,
+          "key": "e16_ok",
+          "tipo": "ok",
+          "next": 53,
+          "etapa": 16,
+          "gem": "tempo"
+        },
+        {
+          "num": 53,
+          "key": "conquista_tempo",
+          "tipo": "conquista",
+          "next": 54,
+          "etapa": null,
+          "gem": "tempo"
+        },
+        {
+          "num": 54,
+          "key": "salao_2",
+          "tipo": "salao",
+          "next": 55,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 55,
+          "key": "chegada_espaco_1",
+          "tipo": "chegada",
+          "next": 56,
+          "etapa": null,
+          "gem": "espaco"
+        },
+        {
+          "num": 56,
+          "key": "chegada_espaco_2",
+          "tipo": "chegada",
+          "next": 57,
+          "etapa": null,
+          "gem": "espaco"
+        },
+        {
+          "num": 57,
+          "key": "chegada_espaco_3",
+          "tipo": "chegada",
+          "next": 58,
+          "etapa": null,
+          "gem": "espaco"
+        },
+        {
+          "num": 58,
+          "key": "intro_espaco",
+          "tipo": "intro",
+          "next": 59,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 59,
+          "key": "e17",
+          "tipo": "etapa",
+          "next": 60,
+          "etapa": 17,
+          "gem": "espaco"
+        },
+        {
+          "num": 60,
+          "key": "e17_ok",
+          "tipo": "ok",
+          "next": 61,
+          "etapa": 17,
+          "gem": "espaco"
+        },
+        {
+          "num": 61,
+          "key": "e18",
+          "tipo": "etapa",
+          "next": 62,
+          "etapa": 18,
+          "gem": "espaco"
+        },
+        {
+          "num": 62,
+          "key": "e18_ok",
+          "tipo": "ok",
+          "next": 63,
+          "etapa": 18,
+          "gem": "espaco"
+        },
+        {
+          "num": 63,
+          "key": "e19",
+          "tipo": "etapa",
+          "next": 64,
+          "etapa": 19,
+          "gem": "espaco"
+        },
+        {
+          "num": 64,
+          "key": "e19_ok",
+          "tipo": "ok",
+          "next": 65,
+          "etapa": 19,
+          "gem": "espaco"
+        },
+        {
+          "num": 65,
+          "key": "e20",
+          "tipo": "etapa",
+          "next": 66,
+          "etapa": 20,
+          "gem": "espaco"
+        },
+        {
+          "num": 66,
+          "key": "e20_ok",
+          "tipo": "ok",
+          "next": 67,
+          "etapa": 20,
+          "gem": "espaco"
+        },
+        {
+          "num": 67,
+          "key": "e21",
+          "tipo": "etapa",
+          "next": 68,
+          "etapa": 21,
+          "gem": "espaco"
+        },
+        {
+          "num": 68,
+          "key": "e21_ok",
+          "tipo": "ok",
+          "next": 69,
+          "etapa": 21,
+          "gem": "espaco"
+        },
+        {
+          "num": 69,
+          "key": "e22",
+          "tipo": "etapa",
+          "next": 70,
+          "etapa": 22,
+          "gem": "espaco"
+        },
+        {
+          "num": 70,
+          "key": "e22_ok",
+          "tipo": "ok",
+          "next": 71,
+          "etapa": 22,
+          "gem": "espaco"
+        },
+        {
+          "num": 71,
+          "key": "e23",
+          "tipo": "etapa",
+          "next": 72,
+          "etapa": 23,
+          "gem": "espaco"
+        },
+        {
+          "num": 72,
+          "key": "e23_ok",
+          "tipo": "ok",
+          "next": 73,
+          "etapa": 23,
+          "gem": "espaco"
+        },
+        {
+          "num": 73,
+          "key": "e24",
+          "tipo": "etapa",
+          "next": 74,
+          "etapa": 24,
+          "gem": "espaco"
+        },
+        {
+          "num": 74,
+          "key": "e24_ok",
+          "tipo": "ok",
+          "next": 75,
+          "etapa": 24,
+          "gem": "espaco"
+        },
+        {
+          "num": 75,
+          "key": "e25",
+          "tipo": "etapa",
+          "next": 76,
+          "etapa": 25,
+          "gem": "espaco"
+        },
+        {
+          "num": 76,
+          "key": "e25_ok",
+          "tipo": "ok",
+          "next": 77,
+          "etapa": 25,
+          "gem": "espaco"
+        },
+        {
+          "num": 77,
+          "key": "conquista_espaco",
+          "tipo": "conquista",
+          "next": 78,
+          "etapa": null,
+          "gem": "espaco"
+        },
+        {
+          "num": 78,
+          "key": "salao_3",
+          "tipo": "salao",
+          "next": 79,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 79,
+          "key": "fim_so1",
+          "tipo": "fim",
+          "next": null,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 80,
+          "key": "mapa",
+          "tipo": "mapa",
+          "next": null,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 81,
+          "key": "creditos",
+          "tipo": "creditos",
+          "next": null,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 82,
+          "key": "e01_err_A",
+          "tipo": "erro",
+          "next": 15,
+          "etapa": 1,
+          "gem": "poder"
+        },
+        {
+          "num": 83,
+          "key": "e01_err_B",
+          "tipo": "erro",
+          "next": 15,
+          "etapa": 1,
+          "gem": "poder"
+        },
+        {
+          "num": 84,
+          "key": "e01_err_D",
+          "tipo": "erro",
+          "next": 15,
+          "etapa": 1,
+          "gem": "poder"
+        },
+        {
+          "num": 85,
+          "key": "e02_err_B",
+          "tipo": "erro",
+          "next": 17,
+          "etapa": 2,
+          "gem": "poder"
+        },
+        {
+          "num": 86,
+          "key": "e02_err_C",
+          "tipo": "erro",
+          "next": 17,
+          "etapa": 2,
+          "gem": "poder"
+        },
+        {
+          "num": 87,
+          "key": "e02_err_D",
+          "tipo": "erro",
+          "next": 17,
+          "etapa": 2,
+          "gem": "poder"
+        },
+        {
+          "num": 88,
+          "key": "e03_err_A",
+          "tipo": "erro",
+          "next": 19,
+          "etapa": 3,
+          "gem": "poder"
+        },
+        {
+          "num": 89,
+          "key": "e03_err_B",
+          "tipo": "erro",
+          "next": 19,
+          "etapa": 3,
+          "gem": "poder"
+        },
+        {
+          "num": 90,
+          "key": "e03_err_C",
+          "tipo": "erro",
+          "next": 19,
+          "etapa": 3,
+          "gem": "poder"
+        },
+        {
+          "num": 91,
+          "key": "e04_err_A",
+          "tipo": "erro",
+          "next": 21,
+          "etapa": 4,
+          "gem": "poder"
+        },
+        {
+          "num": 92,
+          "key": "e04_err_C",
+          "tipo": "erro",
+          "next": 21,
+          "etapa": 4,
+          "gem": "poder"
+        },
+        {
+          "num": 93,
+          "key": "e04_err_D",
+          "tipo": "erro",
+          "next": 21,
+          "etapa": 4,
+          "gem": "poder"
+        },
+        {
+          "num": 94,
+          "key": "e05_err_A",
+          "tipo": "erro",
+          "next": 23,
+          "etapa": 5,
+          "gem": "poder"
+        },
+        {
+          "num": 95,
+          "key": "e05_err_C",
+          "tipo": "erro",
+          "next": 23,
+          "etapa": 5,
+          "gem": "poder"
+        },
+        {
+          "num": 96,
+          "key": "e05_err_D",
+          "tipo": "erro",
+          "next": 23,
+          "etapa": 5,
+          "gem": "poder"
+        },
+        {
+          "num": 97,
+          "key": "e06_err_A",
+          "tipo": "erro",
+          "next": 25,
+          "etapa": 6,
+          "gem": "poder"
+        },
+        {
+          "num": 98,
+          "key": "e06_err_B",
+          "tipo": "erro",
+          "next": 25,
+          "etapa": 6,
+          "gem": "poder"
+        },
+        {
+          "num": 99,
+          "key": "e06_err_C",
+          "tipo": "erro",
+          "next": 25,
+          "etapa": 6,
+          "gem": "poder"
+        },
+        {
+          "num": 100,
+          "key": "e07_err_B",
+          "tipo": "erro",
+          "next": 27,
+          "etapa": 7,
+          "gem": "poder"
+        },
+        {
+          "num": 101,
+          "key": "e07_err_C",
+          "tipo": "erro",
+          "next": 27,
+          "etapa": 7,
+          "gem": "poder"
+        },
+        {
+          "num": 102,
+          "key": "e07_err_D",
+          "tipo": "erro",
+          "next": 27,
+          "etapa": 7,
+          "gem": "poder"
+        },
+        {
+          "num": 103,
+          "key": "e08_err_A",
+          "tipo": "erro",
+          "next": 35,
+          "etapa": 8,
+          "gem": "tempo"
+        },
+        {
+          "num": 104,
+          "key": "e08_err_B",
+          "tipo": "erro",
+          "next": 35,
+          "etapa": 8,
+          "gem": "tempo"
+        },
+        {
+          "num": 105,
+          "key": "e08_err_D",
+          "tipo": "erro",
+          "next": 35,
+          "etapa": 8,
+          "gem": "tempo"
+        },
+        {
+          "num": 106,
+          "key": "e09_err_A",
+          "tipo": "erro",
+          "next": 37,
+          "etapa": 9,
+          "gem": "tempo"
+        },
+        {
+          "num": 107,
+          "key": "e09_err_B",
+          "tipo": "erro",
+          "next": 37,
+          "etapa": 9,
+          "gem": "tempo"
+        },
+        {
+          "num": 108,
+          "key": "e09_err_C",
+          "tipo": "erro",
+          "next": 37,
+          "etapa": 9,
+          "gem": "tempo"
+        },
+        {
+          "num": 109,
+          "key": "e10_err_A",
+          "tipo": "erro",
+          "next": 39,
+          "etapa": 10,
+          "gem": "tempo"
+        },
+        {
+          "num": 110,
+          "key": "e10_err_B",
+          "tipo": "erro",
+          "next": 39,
+          "etapa": 10,
+          "gem": "tempo"
+        },
+        {
+          "num": 111,
+          "key": "e10_err_D",
+          "tipo": "erro",
+          "next": 39,
+          "etapa": 10,
+          "gem": "tempo"
+        },
+        {
+          "num": 112,
+          "key": "e11_err_A",
+          "tipo": "erro",
+          "next": 41,
+          "etapa": 11,
+          "gem": "tempo"
+        },
+        {
+          "num": 113,
+          "key": "e11_err_C",
+          "tipo": "erro",
+          "next": 41,
+          "etapa": 11,
+          "gem": "tempo"
+        },
+        {
+          "num": 114,
+          "key": "e11_err_D",
+          "tipo": "erro",
+          "next": 41,
+          "etapa": 11,
+          "gem": "tempo"
+        },
+        {
+          "num": 115,
+          "key": "e12_err_B",
+          "tipo": "erro",
+          "next": 43,
+          "etapa": 12,
+          "gem": "tempo"
+        },
+        {
+          "num": 116,
+          "key": "e12_err_C",
+          "tipo": "erro",
+          "next": 43,
+          "etapa": 12,
+          "gem": "tempo"
+        },
+        {
+          "num": 117,
+          "key": "e12_err_D",
+          "tipo": "erro",
+          "next": 43,
+          "etapa": 12,
+          "gem": "tempo"
+        },
+        {
+          "num": 118,
+          "key": "e13_err_B",
+          "tipo": "erro",
+          "next": 45,
+          "etapa": 13,
+          "gem": "tempo"
+        },
+        {
+          "num": 119,
+          "key": "e13_err_C",
+          "tipo": "erro",
+          "next": 45,
+          "etapa": 13,
+          "gem": "tempo"
+        },
+        {
+          "num": 120,
+          "key": "e13_err_D",
+          "tipo": "erro",
+          "next": 45,
+          "etapa": 13,
+          "gem": "tempo"
+        },
+        {
+          "num": 121,
+          "key": "e14_err_A",
+          "tipo": "erro",
+          "next": 47,
+          "etapa": 14,
+          "gem": "tempo"
+        },
+        {
+          "num": 122,
+          "key": "e14_err_C",
+          "tipo": "erro",
+          "next": 47,
+          "etapa": 14,
+          "gem": "tempo"
+        },
+        {
+          "num": 123,
+          "key": "e14_err_D",
+          "tipo": "erro",
+          "next": 47,
+          "etapa": 14,
+          "gem": "tempo"
+        },
+        {
+          "num": 124,
+          "key": "e15_err_A",
+          "tipo": "erro",
+          "next": 49,
+          "etapa": 15,
+          "gem": "tempo"
+        },
+        {
+          "num": 125,
+          "key": "e15_err_B",
+          "tipo": "erro",
+          "next": 49,
+          "etapa": 15,
+          "gem": "tempo"
+        },
+        {
+          "num": 126,
+          "key": "e15_err_D",
+          "tipo": "erro",
+          "next": 49,
+          "etapa": 15,
+          "gem": "tempo"
+        },
+        {
+          "num": 127,
+          "key": "e16_err_A",
+          "tipo": "erro",
+          "next": 51,
+          "etapa": 16,
+          "gem": "tempo"
+        },
+        {
+          "num": 128,
+          "key": "e16_err_B",
+          "tipo": "erro",
+          "next": 51,
+          "etapa": 16,
+          "gem": "tempo"
+        },
+        {
+          "num": 129,
+          "key": "e16_err_C",
+          "tipo": "erro",
+          "next": 51,
+          "etapa": 16,
+          "gem": "tempo"
+        },
+        {
+          "num": 130,
+          "key": "e17_err_A",
+          "tipo": "erro",
+          "next": 59,
+          "etapa": 17,
+          "gem": "espaco"
+        },
+        {
+          "num": 131,
+          "key": "e17_err_B",
+          "tipo": "erro",
+          "next": 59,
+          "etapa": 17,
+          "gem": "espaco"
+        },
+        {
+          "num": 132,
+          "key": "e17_err_D",
+          "tipo": "erro",
+          "next": 59,
+          "etapa": 17,
+          "gem": "espaco"
+        },
+        {
+          "num": 133,
+          "key": "e18_err_A",
+          "tipo": "erro",
+          "next": 61,
+          "etapa": 18,
+          "gem": "espaco"
+        },
+        {
+          "num": 134,
+          "key": "e18_err_B",
+          "tipo": "erro",
+          "next": 61,
+          "etapa": 18,
+          "gem": "espaco"
+        },
+        {
+          "num": 135,
+          "key": "e18_err_C",
+          "tipo": "erro",
+          "next": 61,
+          "etapa": 18,
+          "gem": "espaco"
+        },
+        {
+          "num": 136,
+          "key": "e19_err_B",
+          "tipo": "erro",
+          "next": 63,
+          "etapa": 19,
+          "gem": "espaco"
+        },
+        {
+          "num": 137,
+          "key": "e19_err_C",
+          "tipo": "erro",
+          "next": 63,
+          "etapa": 19,
+          "gem": "espaco"
+        },
+        {
+          "num": 138,
+          "key": "e19_err_D",
+          "tipo": "erro",
+          "next": 63,
+          "etapa": 19,
+          "gem": "espaco"
+        },
+        {
+          "num": 139,
+          "key": "e20_err_A",
+          "tipo": "erro",
+          "next": 65,
+          "etapa": 20,
+          "gem": "espaco"
+        },
+        {
+          "num": 140,
+          "key": "e20_err_C",
+          "tipo": "erro",
+          "next": 65,
+          "etapa": 20,
+          "gem": "espaco"
+        },
+        {
+          "num": 141,
+          "key": "e20_err_D",
+          "tipo": "erro",
+          "next": 65,
+          "etapa": 20,
+          "gem": "espaco"
+        },
+        {
+          "num": 142,
+          "key": "e21_err_A",
+          "tipo": "erro",
+          "next": 67,
+          "etapa": 21,
+          "gem": "espaco"
+        },
+        {
+          "num": 143,
+          "key": "e21_err_B",
+          "tipo": "erro",
+          "next": 67,
+          "etapa": 21,
+          "gem": "espaco"
+        },
+        {
+          "num": 144,
+          "key": "e21_err_C",
+          "tipo": "erro",
+          "next": 67,
+          "etapa": 21,
+          "gem": "espaco"
+        },
+        {
+          "num": 145,
+          "key": "e22_err_B",
+          "tipo": "erro",
+          "next": 69,
+          "etapa": 22,
+          "gem": "espaco"
+        },
+        {
+          "num": 146,
+          "key": "e22_err_C",
+          "tipo": "erro",
+          "next": 69,
+          "etapa": 22,
+          "gem": "espaco"
+        },
+        {
+          "num": 147,
+          "key": "e22_err_D",
+          "tipo": "erro",
+          "next": 69,
+          "etapa": 22,
+          "gem": "espaco"
+        },
+        {
+          "num": 148,
+          "key": "e23_err_A",
+          "tipo": "erro",
+          "next": 71,
+          "etapa": 23,
+          "gem": "espaco"
+        },
+        {
+          "num": 149,
+          "key": "e23_err_B",
+          "tipo": "erro",
+          "next": 71,
+          "etapa": 23,
+          "gem": "espaco"
+        },
+        {
+          "num": 150,
+          "key": "e23_err_D",
+          "tipo": "erro",
+          "next": 71,
+          "etapa": 23,
+          "gem": "espaco"
+        },
+        {
+          "num": 151,
+          "key": "e24_err_A",
+          "tipo": "erro",
+          "next": 73,
+          "etapa": 24,
+          "gem": "espaco"
+        },
+        {
+          "num": 152,
+          "key": "e24_err_C",
+          "tipo": "erro",
+          "next": 73,
+          "etapa": 24,
+          "gem": "espaco"
+        },
+        {
+          "num": 153,
+          "key": "e24_err_D",
+          "tipo": "erro",
+          "next": 73,
+          "etapa": 24,
+          "gem": "espaco"
+        },
+        {
+          "num": 154,
+          "key": "e25_err_B",
+          "tipo": "erro",
+          "next": 75,
+          "etapa": 25,
+          "gem": "espaco"
+        },
+        {
+          "num": 155,
+          "key": "e25_err_C",
+          "tipo": "erro",
+          "next": 75,
+          "etapa": 25,
+          "gem": "espaco"
+        },
+        {
+          "num": 156,
+          "key": "e25_err_D",
+          "tipo": "erro",
+          "next": 75,
+          "etapa": 25,
+          "gem": "espaco"
+        }
+      ],
+      "etapas": [
+        {
+          "n": 1,
+          "gem": "poder",
+          "slide": 15,
+          "ok": 16,
+          "erros": [
+            82,
+            83,
+            84
+          ],
+          "certa": "C"
+        },
+        {
+          "n": 2,
+          "gem": "poder",
+          "slide": 17,
+          "ok": 18,
+          "erros": [
+            85,
+            86,
+            87
+          ],
+          "certa": "A"
+        },
+        {
+          "n": 3,
+          "gem": "poder",
+          "slide": 19,
+          "ok": 20,
+          "erros": [
+            88,
+            89,
+            90
+          ],
+          "certa": "D"
+        },
+        {
+          "n": 4,
+          "gem": "poder",
+          "slide": 21,
+          "ok": 22,
+          "erros": [
+            91,
+            92,
+            93
+          ],
+          "certa": "B"
+        },
+        {
+          "n": 5,
+          "gem": "poder",
+          "slide": 23,
+          "ok": 24,
+          "erros": [
+            94,
+            95,
+            96
+          ],
+          "certa": "B"
+        },
+        {
+          "n": 6,
+          "gem": "poder",
+          "slide": 25,
+          "ok": 26,
+          "erros": [
+            97,
+            98,
+            99
+          ],
+          "certa": "D"
+        },
+        {
+          "n": 7,
+          "gem": "poder",
+          "slide": 27,
+          "ok": 28,
+          "erros": [
+            100,
+            101,
+            102
+          ],
+          "certa": "A"
+        },
+        {
+          "n": 8,
+          "gem": "tempo",
+          "slide": 35,
+          "ok": 36,
+          "erros": [
+            103,
+            104,
+            105
+          ],
+          "certa": "C"
+        },
+        {
+          "n": 9,
+          "gem": "tempo",
+          "slide": 37,
+          "ok": 38,
+          "erros": [
+            106,
+            107,
+            108
+          ],
+          "certa": "D"
+        },
+        {
+          "n": 10,
+          "gem": "tempo",
+          "slide": 39,
+          "ok": 40,
+          "erros": [
+            109,
+            110,
+            111
+          ],
+          "certa": "C"
+        },
+        {
+          "n": 11,
+          "gem": "tempo",
+          "slide": 41,
+          "ok": 42,
+          "erros": [
+            112,
+            113,
+            114
+          ],
+          "certa": "B"
+        },
+        {
+          "n": 12,
+          "gem": "tempo",
+          "slide": 43,
+          "ok": 44,
+          "erros": [
+            115,
+            116,
+            117
+          ],
+          "certa": "A"
+        },
+        {
+          "n": 13,
+          "gem": "tempo",
+          "slide": 45,
+          "ok": 46,
+          "erros": [
+            118,
+            119,
+            120
+          ],
+          "certa": "A"
+        },
+        {
+          "n": 14,
+          "gem": "tempo",
+          "slide": 47,
+          "ok": 48,
+          "erros": [
+            121,
+            122,
+            123
+          ],
+          "certa": "B"
+        },
+        {
+          "n": 15,
+          "gem": "tempo",
+          "slide": 49,
+          "ok": 50,
+          "erros": [
+            124,
+            125,
+            126
+          ],
+          "certa": "C"
+        },
+        {
+          "n": 16,
+          "gem": "tempo",
+          "slide": 51,
+          "ok": 52,
+          "erros": [
+            127,
+            128,
+            129
+          ],
+          "certa": "D"
+        },
+        {
+          "n": 17,
+          "gem": "espaco",
+          "slide": 59,
+          "ok": 60,
+          "erros": [
+            130,
+            131,
+            132
+          ],
+          "certa": "C"
+        },
+        {
+          "n": 18,
+          "gem": "espaco",
+          "slide": 61,
+          "ok": 62,
+          "erros": [
+            133,
+            134,
+            135
+          ],
+          "certa": "D"
+        },
+        {
+          "n": 19,
+          "gem": "espaco",
+          "slide": 63,
+          "ok": 64,
+          "erros": [
+            136,
+            137,
+            138
+          ],
+          "certa": "A"
+        },
+        {
+          "n": 20,
+          "gem": "espaco",
+          "slide": 65,
+          "ok": 66,
+          "erros": [
+            139,
+            140,
+            141
+          ],
+          "certa": "B"
+        },
+        {
+          "n": 21,
+          "gem": "espaco",
+          "slide": 67,
+          "ok": 68,
+          "erros": [
+            142,
+            143,
+            144
+          ],
+          "certa": "D"
+        },
+        {
+          "n": 22,
+          "gem": "espaco",
+          "slide": 69,
+          "ok": 70,
+          "erros": [
+            145,
+            146,
+            147
+          ],
+          "certa": "A"
+        },
+        {
+          "n": 23,
+          "gem": "espaco",
+          "slide": 71,
+          "ok": 72,
+          "erros": [
+            148,
+            149,
+            150
+          ],
+          "certa": "C"
+        },
+        {
+          "n": 24,
+          "gem": "espaco",
+          "slide": 73,
+          "ok": 74,
+          "erros": [
+            151,
+            152,
+            153
+          ],
+          "certa": "B"
+        },
+        {
+          "n": 25,
+          "gem": "espaco",
+          "slide": 75,
+          "ok": 76,
+          "erros": [
+            154,
+            155,
+            156
+          ],
+          "certa": "A"
+        }
+      ]
+    },
+    {
+      "versao": "so2",
+      "titulo": "Apresentação SO 2",
+      "arquivo": "ThanOS_SO2.pptx",
+      "total": 20,
+      "gemas": [
+        "realidade",
+        "alma",
+        "mente"
+      ],
+      "inicio": 3,
+      "fimSalao": 6,
+      "fim": "conclusao",
+      "slides": [
+        {
+          "num": 1,
+          "key": "capa",
+          "tipo": "capa",
+          "next": 2,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 2,
+          "key": "conversa_1",
+          "tipo": "conversa",
+          "next": 3,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 3,
+          "key": "conversa_2",
+          "tipo": "conversa",
+          "next": 4,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 4,
+          "key": "conversa_3",
+          "tipo": "conversa",
+          "next": 5,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 5,
+          "key": "conversa_4",
+          "tipo": "conversa",
+          "next": 6,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 6,
+          "key": "salao_3",
+          "tipo": "salao",
+          "next": 7,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 7,
+          "key": "previa_realidade",
+          "tipo": "previa",
+          "next": 8,
+          "etapa": null,
+          "gem": "realidade"
+        },
+        {
+          "num": 8,
+          "key": "conquista_realidade",
+          "tipo": "conquista",
+          "next": 9,
+          "etapa": null,
+          "gem": "realidade"
+        },
+        {
+          "num": 9,
+          "key": "salao_4",
+          "tipo": "salao",
+          "next": 10,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 10,
+          "key": "previa_alma",
+          "tipo": "previa",
+          "next": 11,
+          "etapa": null,
+          "gem": "alma"
+        },
+        {
+          "num": 11,
+          "key": "conquista_alma",
+          "tipo": "conquista",
+          "next": 12,
+          "etapa": null,
+          "gem": "alma"
+        },
+        {
+          "num": 12,
+          "key": "salao_5",
+          "tipo": "salao",
+          "next": 13,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 13,
+          "key": "previa_mente",
+          "tipo": "previa",
+          "next": 14,
+          "etapa": null,
+          "gem": "mente"
+        },
+        {
+          "num": 14,
+          "key": "conquista_mente",
+          "tipo": "conquista",
+          "next": 15,
+          "etapa": null,
+          "gem": "mente"
+        },
+        {
+          "num": 15,
+          "key": "salao_6",
+          "tipo": "salao",
+          "next": 16,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 16,
+          "key": "estalo",
+          "tipo": "estalo",
+          "next": 17,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 17,
+          "key": "epilogo",
+          "tipo": "epilogo",
+          "next": 18,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 18,
+          "key": "conclusao",
+          "tipo": "conclusao",
+          "next": null,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 19,
+          "key": "mapa",
+          "tipo": "mapa",
+          "next": null,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 20,
+          "key": "creditos",
+          "tipo": "creditos",
+          "next": null,
+          "etapa": null,
+          "gem": null
+        }
+      ],
+      "etapas": []
+    },
+    {
+      "versao": "completo",
+      "titulo": "Jogo completo",
+      "arquivo": "ThanOS_Completo.pptx",
+      "total": 167,
+      "gemas": [
+        "poder",
+        "tempo",
+        "espaco",
+        "realidade",
+        "alma",
+        "mente"
+      ],
+      "inicio": 0,
+      "fimSalao": 6,
+      "fim": "conclusao",
+      "slides": [
+        {
+          "num": 1,
+          "key": "capa",
+          "tipo": "capa",
+          "next": 2,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 2,
+          "key": "conversa_1",
+          "tipo": "conversa",
+          "next": 3,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 3,
+          "key": "conversa_2",
+          "tipo": "conversa",
+          "next": 4,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 4,
+          "key": "conversa_3",
+          "tipo": "conversa",
+          "next": 5,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 5,
+          "key": "conversa_4",
+          "tipo": "conversa",
+          "next": 6,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 6,
+          "key": "conversa_5",
+          "tipo": "conversa",
+          "next": 7,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 7,
+          "key": "conversa_6",
+          "tipo": "conversa",
+          "next": 8,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 8,
+          "key": "conversa_7",
+          "tipo": "conversa",
+          "next": 9,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 9,
+          "key": "conversa_8",
+          "tipo": "conversa",
+          "next": 10,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 10,
+          "key": "salao_0",
+          "tipo": "salao",
+          "next": 11,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 11,
+          "key": "chegada_poder_1",
+          "tipo": "chegada",
+          "next": 12,
+          "etapa": null,
+          "gem": "poder"
+        },
+        {
+          "num": 12,
+          "key": "chegada_poder_2",
+          "tipo": "chegada",
+          "next": 13,
+          "etapa": null,
+          "gem": "poder"
+        },
+        {
+          "num": 13,
+          "key": "chegada_poder_3",
+          "tipo": "chegada",
+          "next": 14,
+          "etapa": null,
+          "gem": "poder"
+        },
+        {
+          "num": 14,
+          "key": "intro_poder",
+          "tipo": "intro",
+          "next": 15,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 15,
+          "key": "e01",
+          "tipo": "etapa",
+          "next": 16,
+          "etapa": 1,
+          "gem": "poder"
+        },
+        {
+          "num": 16,
+          "key": "e01_ok",
+          "tipo": "ok",
+          "next": 17,
+          "etapa": 1,
+          "gem": "poder"
+        },
+        {
+          "num": 17,
+          "key": "e02",
+          "tipo": "etapa",
+          "next": 18,
+          "etapa": 2,
+          "gem": "poder"
+        },
+        {
+          "num": 18,
+          "key": "e02_ok",
+          "tipo": "ok",
+          "next": 19,
+          "etapa": 2,
+          "gem": "poder"
+        },
+        {
+          "num": 19,
+          "key": "e03",
+          "tipo": "etapa",
+          "next": 20,
+          "etapa": 3,
+          "gem": "poder"
+        },
+        {
+          "num": 20,
+          "key": "e03_ok",
+          "tipo": "ok",
+          "next": 21,
+          "etapa": 3,
+          "gem": "poder"
+        },
+        {
+          "num": 21,
+          "key": "e04",
+          "tipo": "etapa",
+          "next": 22,
+          "etapa": 4,
+          "gem": "poder"
+        },
+        {
+          "num": 22,
+          "key": "e04_ok",
+          "tipo": "ok",
+          "next": 23,
+          "etapa": 4,
+          "gem": "poder"
+        },
+        {
+          "num": 23,
+          "key": "e05",
+          "tipo": "etapa",
+          "next": 24,
+          "etapa": 5,
+          "gem": "poder"
+        },
+        {
+          "num": 24,
+          "key": "e05_ok",
+          "tipo": "ok",
+          "next": 25,
+          "etapa": 5,
+          "gem": "poder"
+        },
+        {
+          "num": 25,
+          "key": "e06",
+          "tipo": "etapa",
+          "next": 26,
+          "etapa": 6,
+          "gem": "poder"
+        },
+        {
+          "num": 26,
+          "key": "e06_ok",
+          "tipo": "ok",
+          "next": 27,
+          "etapa": 6,
+          "gem": "poder"
+        },
+        {
+          "num": 27,
+          "key": "e07",
+          "tipo": "etapa",
+          "next": 28,
+          "etapa": 7,
+          "gem": "poder"
+        },
+        {
+          "num": 28,
+          "key": "e07_ok",
+          "tipo": "ok",
+          "next": 29,
+          "etapa": 7,
+          "gem": "poder"
+        },
+        {
+          "num": 29,
+          "key": "conquista_poder",
+          "tipo": "conquista",
+          "next": 30,
+          "etapa": null,
+          "gem": "poder"
+        },
+        {
+          "num": 30,
+          "key": "salao_1",
+          "tipo": "salao",
+          "next": 31,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 31,
+          "key": "chegada_tempo_1",
+          "tipo": "chegada",
+          "next": 32,
+          "etapa": null,
+          "gem": "tempo"
+        },
+        {
+          "num": 32,
+          "key": "chegada_tempo_2",
+          "tipo": "chegada",
+          "next": 33,
+          "etapa": null,
+          "gem": "tempo"
+        },
+        {
+          "num": 33,
+          "key": "chegada_tempo_3",
+          "tipo": "chegada",
+          "next": 34,
+          "etapa": null,
+          "gem": "tempo"
+        },
+        {
+          "num": 34,
+          "key": "intro_tempo",
+          "tipo": "intro",
+          "next": 35,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 35,
+          "key": "e08",
+          "tipo": "etapa",
+          "next": 36,
+          "etapa": 8,
+          "gem": "tempo"
+        },
+        {
+          "num": 36,
+          "key": "e08_ok",
+          "tipo": "ok",
+          "next": 37,
+          "etapa": 8,
+          "gem": "tempo"
+        },
+        {
+          "num": 37,
+          "key": "e09",
+          "tipo": "etapa",
+          "next": 38,
+          "etapa": 9,
+          "gem": "tempo"
+        },
+        {
+          "num": 38,
+          "key": "e09_ok",
+          "tipo": "ok",
+          "next": 39,
+          "etapa": 9,
+          "gem": "tempo"
+        },
+        {
+          "num": 39,
+          "key": "e10",
+          "tipo": "etapa",
+          "next": 40,
+          "etapa": 10,
+          "gem": "tempo"
+        },
+        {
+          "num": 40,
+          "key": "e10_ok",
+          "tipo": "ok",
+          "next": 41,
+          "etapa": 10,
+          "gem": "tempo"
+        },
+        {
+          "num": 41,
+          "key": "e11",
+          "tipo": "etapa",
+          "next": 42,
+          "etapa": 11,
+          "gem": "tempo"
+        },
+        {
+          "num": 42,
+          "key": "e11_ok",
+          "tipo": "ok",
+          "next": 43,
+          "etapa": 11,
+          "gem": "tempo"
+        },
+        {
+          "num": 43,
+          "key": "e12",
+          "tipo": "etapa",
+          "next": 44,
+          "etapa": 12,
+          "gem": "tempo"
+        },
+        {
+          "num": 44,
+          "key": "e12_ok",
+          "tipo": "ok",
+          "next": 45,
+          "etapa": 12,
+          "gem": "tempo"
+        },
+        {
+          "num": 45,
+          "key": "e13",
+          "tipo": "etapa",
+          "next": 46,
+          "etapa": 13,
+          "gem": "tempo"
+        },
+        {
+          "num": 46,
+          "key": "e13_ok",
+          "tipo": "ok",
+          "next": 47,
+          "etapa": 13,
+          "gem": "tempo"
+        },
+        {
+          "num": 47,
+          "key": "e14",
+          "tipo": "etapa",
+          "next": 48,
+          "etapa": 14,
+          "gem": "tempo"
+        },
+        {
+          "num": 48,
+          "key": "e14_ok",
+          "tipo": "ok",
+          "next": 49,
+          "etapa": 14,
+          "gem": "tempo"
+        },
+        {
+          "num": 49,
+          "key": "e15",
+          "tipo": "etapa",
+          "next": 50,
+          "etapa": 15,
+          "gem": "tempo"
+        },
+        {
+          "num": 50,
+          "key": "e15_ok",
+          "tipo": "ok",
+          "next": 51,
+          "etapa": 15,
+          "gem": "tempo"
+        },
+        {
+          "num": 51,
+          "key": "e16",
+          "tipo": "etapa",
+          "next": 52,
+          "etapa": 16,
+          "gem": "tempo"
+        },
+        {
+          "num": 52,
+          "key": "e16_ok",
+          "tipo": "ok",
+          "next": 53,
+          "etapa": 16,
+          "gem": "tempo"
+        },
+        {
+          "num": 53,
+          "key": "conquista_tempo",
+          "tipo": "conquista",
+          "next": 54,
+          "etapa": null,
+          "gem": "tempo"
+        },
+        {
+          "num": 54,
+          "key": "salao_2",
+          "tipo": "salao",
+          "next": 55,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 55,
+          "key": "chegada_espaco_1",
+          "tipo": "chegada",
+          "next": 56,
+          "etapa": null,
+          "gem": "espaco"
+        },
+        {
+          "num": 56,
+          "key": "chegada_espaco_2",
+          "tipo": "chegada",
+          "next": 57,
+          "etapa": null,
+          "gem": "espaco"
+        },
+        {
+          "num": 57,
+          "key": "chegada_espaco_3",
+          "tipo": "chegada",
+          "next": 58,
+          "etapa": null,
+          "gem": "espaco"
+        },
+        {
+          "num": 58,
+          "key": "intro_espaco",
+          "tipo": "intro",
+          "next": 59,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 59,
+          "key": "e17",
+          "tipo": "etapa",
+          "next": 60,
+          "etapa": 17,
+          "gem": "espaco"
+        },
+        {
+          "num": 60,
+          "key": "e17_ok",
+          "tipo": "ok",
+          "next": 61,
+          "etapa": 17,
+          "gem": "espaco"
+        },
+        {
+          "num": 61,
+          "key": "e18",
+          "tipo": "etapa",
+          "next": 62,
+          "etapa": 18,
+          "gem": "espaco"
+        },
+        {
+          "num": 62,
+          "key": "e18_ok",
+          "tipo": "ok",
+          "next": 63,
+          "etapa": 18,
+          "gem": "espaco"
+        },
+        {
+          "num": 63,
+          "key": "e19",
+          "tipo": "etapa",
+          "next": 64,
+          "etapa": 19,
+          "gem": "espaco"
+        },
+        {
+          "num": 64,
+          "key": "e19_ok",
+          "tipo": "ok",
+          "next": 65,
+          "etapa": 19,
+          "gem": "espaco"
+        },
+        {
+          "num": 65,
+          "key": "e20",
+          "tipo": "etapa",
+          "next": 66,
+          "etapa": 20,
+          "gem": "espaco"
+        },
+        {
+          "num": 66,
+          "key": "e20_ok",
+          "tipo": "ok",
+          "next": 67,
+          "etapa": 20,
+          "gem": "espaco"
+        },
+        {
+          "num": 67,
+          "key": "e21",
+          "tipo": "etapa",
+          "next": 68,
+          "etapa": 21,
+          "gem": "espaco"
+        },
+        {
+          "num": 68,
+          "key": "e21_ok",
+          "tipo": "ok",
+          "next": 69,
+          "etapa": 21,
+          "gem": "espaco"
+        },
+        {
+          "num": 69,
+          "key": "e22",
+          "tipo": "etapa",
+          "next": 70,
+          "etapa": 22,
+          "gem": "espaco"
+        },
+        {
+          "num": 70,
+          "key": "e22_ok",
+          "tipo": "ok",
+          "next": 71,
+          "etapa": 22,
+          "gem": "espaco"
+        },
+        {
+          "num": 71,
+          "key": "e23",
+          "tipo": "etapa",
+          "next": 72,
+          "etapa": 23,
+          "gem": "espaco"
+        },
+        {
+          "num": 72,
+          "key": "e23_ok",
+          "tipo": "ok",
+          "next": 73,
+          "etapa": 23,
+          "gem": "espaco"
+        },
+        {
+          "num": 73,
+          "key": "e24",
+          "tipo": "etapa",
+          "next": 74,
+          "etapa": 24,
+          "gem": "espaco"
+        },
+        {
+          "num": 74,
+          "key": "e24_ok",
+          "tipo": "ok",
+          "next": 75,
+          "etapa": 24,
+          "gem": "espaco"
+        },
+        {
+          "num": 75,
+          "key": "e25",
+          "tipo": "etapa",
+          "next": 76,
+          "etapa": 25,
+          "gem": "espaco"
+        },
+        {
+          "num": 76,
+          "key": "e25_ok",
+          "tipo": "ok",
+          "next": 77,
+          "etapa": 25,
+          "gem": "espaco"
+        },
+        {
+          "num": 77,
+          "key": "conquista_espaco",
+          "tipo": "conquista",
+          "next": 78,
+          "etapa": null,
+          "gem": "espaco"
+        },
+        {
+          "num": 78,
+          "key": "salao_3",
+          "tipo": "salao",
+          "next": 79,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 79,
+          "key": "previa_realidade",
+          "tipo": "previa",
+          "next": 80,
+          "etapa": null,
+          "gem": "realidade"
+        },
+        {
+          "num": 80,
+          "key": "conquista_realidade",
+          "tipo": "conquista",
+          "next": 81,
+          "etapa": null,
+          "gem": "realidade"
+        },
+        {
+          "num": 81,
+          "key": "salao_4",
+          "tipo": "salao",
+          "next": 82,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 82,
+          "key": "previa_alma",
+          "tipo": "previa",
+          "next": 83,
+          "etapa": null,
+          "gem": "alma"
+        },
+        {
+          "num": 83,
+          "key": "conquista_alma",
+          "tipo": "conquista",
+          "next": 84,
+          "etapa": null,
+          "gem": "alma"
+        },
+        {
+          "num": 84,
+          "key": "salao_5",
+          "tipo": "salao",
+          "next": 85,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 85,
+          "key": "previa_mente",
+          "tipo": "previa",
+          "next": 86,
+          "etapa": null,
+          "gem": "mente"
+        },
+        {
+          "num": 86,
+          "key": "conquista_mente",
+          "tipo": "conquista",
+          "next": 87,
+          "etapa": null,
+          "gem": "mente"
+        },
+        {
+          "num": 87,
+          "key": "salao_6",
+          "tipo": "salao",
+          "next": 88,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 88,
+          "key": "estalo",
+          "tipo": "estalo",
+          "next": 89,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 89,
+          "key": "epilogo",
+          "tipo": "epilogo",
+          "next": 90,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 90,
+          "key": "conclusao",
+          "tipo": "conclusao",
+          "next": null,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 91,
+          "key": "mapa",
+          "tipo": "mapa",
+          "next": null,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 92,
+          "key": "creditos",
+          "tipo": "creditos",
+          "next": null,
+          "etapa": null,
+          "gem": null
+        },
+        {
+          "num": 93,
+          "key": "e01_err_A",
+          "tipo": "erro",
+          "next": 15,
+          "etapa": 1,
+          "gem": "poder"
+        },
+        {
+          "num": 94,
+          "key": "e01_err_B",
+          "tipo": "erro",
+          "next": 15,
+          "etapa": 1,
+          "gem": "poder"
+        },
+        {
+          "num": 95,
+          "key": "e01_err_D",
+          "tipo": "erro",
+          "next": 15,
+          "etapa": 1,
+          "gem": "poder"
+        },
+        {
+          "num": 96,
+          "key": "e02_err_B",
+          "tipo": "erro",
+          "next": 17,
+          "etapa": 2,
+          "gem": "poder"
+        },
+        {
+          "num": 97,
+          "key": "e02_err_C",
+          "tipo": "erro",
+          "next": 17,
+          "etapa": 2,
+          "gem": "poder"
+        },
+        {
+          "num": 98,
+          "key": "e02_err_D",
+          "tipo": "erro",
+          "next": 17,
+          "etapa": 2,
+          "gem": "poder"
+        },
+        {
+          "num": 99,
+          "key": "e03_err_A",
+          "tipo": "erro",
+          "next": 19,
+          "etapa": 3,
+          "gem": "poder"
+        },
+        {
+          "num": 100,
+          "key": "e03_err_B",
+          "tipo": "erro",
+          "next": 19,
+          "etapa": 3,
+          "gem": "poder"
+        },
+        {
+          "num": 101,
+          "key": "e03_err_C",
+          "tipo": "erro",
+          "next": 19,
+          "etapa": 3,
+          "gem": "poder"
+        },
+        {
+          "num": 102,
+          "key": "e04_err_A",
+          "tipo": "erro",
+          "next": 21,
+          "etapa": 4,
+          "gem": "poder"
+        },
+        {
+          "num": 103,
+          "key": "e04_err_C",
+          "tipo": "erro",
+          "next": 21,
+          "etapa": 4,
+          "gem": "poder"
+        },
+        {
+          "num": 104,
+          "key": "e04_err_D",
+          "tipo": "erro",
+          "next": 21,
+          "etapa": 4,
+          "gem": "poder"
+        },
+        {
+          "num": 105,
+          "key": "e05_err_A",
+          "tipo": "erro",
+          "next": 23,
+          "etapa": 5,
+          "gem": "poder"
+        },
+        {
+          "num": 106,
+          "key": "e05_err_C",
+          "tipo": "erro",
+          "next": 23,
+          "etapa": 5,
+          "gem": "poder"
+        },
+        {
+          "num": 107,
+          "key": "e05_err_D",
+          "tipo": "erro",
+          "next": 23,
+          "etapa": 5,
+          "gem": "poder"
+        },
+        {
+          "num": 108,
+          "key": "e06_err_A",
+          "tipo": "erro",
+          "next": 25,
+          "etapa": 6,
+          "gem": "poder"
+        },
+        {
+          "num": 109,
+          "key": "e06_err_B",
+          "tipo": "erro",
+          "next": 25,
+          "etapa": 6,
+          "gem": "poder"
+        },
+        {
+          "num": 110,
+          "key": "e06_err_C",
+          "tipo": "erro",
+          "next": 25,
+          "etapa": 6,
+          "gem": "poder"
+        },
+        {
+          "num": 111,
+          "key": "e07_err_B",
+          "tipo": "erro",
+          "next": 27,
+          "etapa": 7,
+          "gem": "poder"
+        },
+        {
+          "num": 112,
+          "key": "e07_err_C",
+          "tipo": "erro",
+          "next": 27,
+          "etapa": 7,
+          "gem": "poder"
+        },
+        {
+          "num": 113,
+          "key": "e07_err_D",
+          "tipo": "erro",
+          "next": 27,
+          "etapa": 7,
+          "gem": "poder"
+        },
+        {
+          "num": 114,
+          "key": "e08_err_A",
+          "tipo": "erro",
+          "next": 35,
+          "etapa": 8,
+          "gem": "tempo"
+        },
+        {
+          "num": 115,
+          "key": "e08_err_B",
+          "tipo": "erro",
+          "next": 35,
+          "etapa": 8,
+          "gem": "tempo"
+        },
+        {
+          "num": 116,
+          "key": "e08_err_D",
+          "tipo": "erro",
+          "next": 35,
+          "etapa": 8,
+          "gem": "tempo"
+        },
+        {
+          "num": 117,
+          "key": "e09_err_A",
+          "tipo": "erro",
+          "next": 37,
+          "etapa": 9,
+          "gem": "tempo"
+        },
+        {
+          "num": 118,
+          "key": "e09_err_B",
+          "tipo": "erro",
+          "next": 37,
+          "etapa": 9,
+          "gem": "tempo"
+        },
+        {
+          "num": 119,
+          "key": "e09_err_C",
+          "tipo": "erro",
+          "next": 37,
+          "etapa": 9,
+          "gem": "tempo"
+        },
+        {
+          "num": 120,
+          "key": "e10_err_A",
+          "tipo": "erro",
+          "next": 39,
+          "etapa": 10,
+          "gem": "tempo"
+        },
+        {
+          "num": 121,
+          "key": "e10_err_B",
+          "tipo": "erro",
+          "next": 39,
+          "etapa": 10,
+          "gem": "tempo"
+        },
+        {
+          "num": 122,
+          "key": "e10_err_D",
+          "tipo": "erro",
+          "next": 39,
+          "etapa": 10,
+          "gem": "tempo"
+        },
+        {
+          "num": 123,
+          "key": "e11_err_A",
+          "tipo": "erro",
+          "next": 41,
+          "etapa": 11,
+          "gem": "tempo"
+        },
+        {
+          "num": 124,
+          "key": "e11_err_C",
+          "tipo": "erro",
+          "next": 41,
+          "etapa": 11,
+          "gem": "tempo"
+        },
+        {
+          "num": 125,
+          "key": "e11_err_D",
+          "tipo": "erro",
+          "next": 41,
+          "etapa": 11,
+          "gem": "tempo"
+        },
+        {
+          "num": 126,
+          "key": "e12_err_B",
+          "tipo": "erro",
+          "next": 43,
+          "etapa": 12,
+          "gem": "tempo"
+        },
+        {
+          "num": 127,
+          "key": "e12_err_C",
+          "tipo": "erro",
+          "next": 43,
+          "etapa": 12,
+          "gem": "tempo"
+        },
+        {
+          "num": 128,
+          "key": "e12_err_D",
+          "tipo": "erro",
+          "next": 43,
+          "etapa": 12,
+          "gem": "tempo"
+        },
+        {
+          "num": 129,
+          "key": "e13_err_B",
+          "tipo": "erro",
+          "next": 45,
+          "etapa": 13,
+          "gem": "tempo"
+        },
+        {
+          "num": 130,
+          "key": "e13_err_C",
+          "tipo": "erro",
+          "next": 45,
+          "etapa": 13,
+          "gem": "tempo"
+        },
+        {
+          "num": 131,
+          "key": "e13_err_D",
+          "tipo": "erro",
+          "next": 45,
+          "etapa": 13,
+          "gem": "tempo"
+        },
+        {
+          "num": 132,
+          "key": "e14_err_A",
+          "tipo": "erro",
+          "next": 47,
+          "etapa": 14,
+          "gem": "tempo"
+        },
+        {
+          "num": 133,
+          "key": "e14_err_C",
+          "tipo": "erro",
+          "next": 47,
+          "etapa": 14,
+          "gem": "tempo"
+        },
+        {
+          "num": 134,
+          "key": "e14_err_D",
+          "tipo": "erro",
+          "next": 47,
+          "etapa": 14,
+          "gem": "tempo"
+        },
+        {
+          "num": 135,
+          "key": "e15_err_A",
+          "tipo": "erro",
+          "next": 49,
+          "etapa": 15,
+          "gem": "tempo"
+        },
+        {
+          "num": 136,
+          "key": "e15_err_B",
+          "tipo": "erro",
+          "next": 49,
+          "etapa": 15,
+          "gem": "tempo"
+        },
+        {
+          "num": 137,
+          "key": "e15_err_D",
+          "tipo": "erro",
+          "next": 49,
+          "etapa": 15,
+          "gem": "tempo"
+        },
+        {
+          "num": 138,
+          "key": "e16_err_A",
+          "tipo": "erro",
+          "next": 51,
+          "etapa": 16,
+          "gem": "tempo"
+        },
+        {
+          "num": 139,
+          "key": "e16_err_B",
+          "tipo": "erro",
+          "next": 51,
+          "etapa": 16,
+          "gem": "tempo"
+        },
+        {
+          "num": 140,
+          "key": "e16_err_C",
+          "tipo": "erro",
+          "next": 51,
+          "etapa": 16,
+          "gem": "tempo"
+        },
+        {
+          "num": 141,
+          "key": "e17_err_A",
+          "tipo": "erro",
+          "next": 59,
+          "etapa": 17,
+          "gem": "espaco"
+        },
+        {
+          "num": 142,
+          "key": "e17_err_B",
+          "tipo": "erro",
+          "next": 59,
+          "etapa": 17,
+          "gem": "espaco"
+        },
+        {
+          "num": 143,
+          "key": "e17_err_D",
+          "tipo": "erro",
+          "next": 59,
+          "etapa": 17,
+          "gem": "espaco"
+        },
+        {
+          "num": 144,
+          "key": "e18_err_A",
+          "tipo": "erro",
+          "next": 61,
+          "etapa": 18,
+          "gem": "espaco"
+        },
+        {
+          "num": 145,
+          "key": "e18_err_B",
+          "tipo": "erro",
+          "next": 61,
+          "etapa": 18,
+          "gem": "espaco"
+        },
+        {
+          "num": 146,
+          "key": "e18_err_C",
+          "tipo": "erro",
+          "next": 61,
+          "etapa": 18,
+          "gem": "espaco"
+        },
+        {
+          "num": 147,
+          "key": "e19_err_B",
+          "tipo": "erro",
+          "next": 63,
+          "etapa": 19,
+          "gem": "espaco"
+        },
+        {
+          "num": 148,
+          "key": "e19_err_C",
+          "tipo": "erro",
+          "next": 63,
+          "etapa": 19,
+          "gem": "espaco"
+        },
+        {
+          "num": 149,
+          "key": "e19_err_D",
+          "tipo": "erro",
+          "next": 63,
+          "etapa": 19,
+          "gem": "espaco"
+        },
+        {
+          "num": 150,
+          "key": "e20_err_A",
+          "tipo": "erro",
+          "next": 65,
+          "etapa": 20,
+          "gem": "espaco"
+        },
+        {
+          "num": 151,
+          "key": "e20_err_C",
+          "tipo": "erro",
+          "next": 65,
+          "etapa": 20,
+          "gem": "espaco"
+        },
+        {
+          "num": 152,
+          "key": "e20_err_D",
+          "tipo": "erro",
+          "next": 65,
+          "etapa": 20,
+          "gem": "espaco"
+        },
+        {
+          "num": 153,
+          "key": "e21_err_A",
+          "tipo": "erro",
+          "next": 67,
+          "etapa": 21,
+          "gem": "espaco"
+        },
+        {
+          "num": 154,
+          "key": "e21_err_B",
+          "tipo": "erro",
+          "next": 67,
+          "etapa": 21,
+          "gem": "espaco"
+        },
+        {
+          "num": 155,
+          "key": "e21_err_C",
+          "tipo": "erro",
+          "next": 67,
+          "etapa": 21,
+          "gem": "espaco"
+        },
+        {
+          "num": 156,
+          "key": "e22_err_B",
+          "tipo": "erro",
+          "next": 69,
+          "etapa": 22,
+          "gem": "espaco"
+        },
+        {
+          "num": 157,
+          "key": "e22_err_C",
+          "tipo": "erro",
+          "next": 69,
+          "etapa": 22,
+          "gem": "espaco"
+        },
+        {
+          "num": 158,
+          "key": "e22_err_D",
+          "tipo": "erro",
+          "next": 69,
+          "etapa": 22,
+          "gem": "espaco"
+        },
+        {
+          "num": 159,
+          "key": "e23_err_A",
+          "tipo": "erro",
+          "next": 71,
+          "etapa": 23,
+          "gem": "espaco"
+        },
+        {
+          "num": 160,
+          "key": "e23_err_B",
+          "tipo": "erro",
+          "next": 71,
+          "etapa": 23,
+          "gem": "espaco"
+        },
+        {
+          "num": 161,
+          "key": "e23_err_D",
+          "tipo": "erro",
+          "next": 71,
+          "etapa": 23,
+          "gem": "espaco"
+        },
+        {
+          "num": 162,
+          "key": "e24_err_A",
+          "tipo": "erro",
+          "next": 73,
+          "etapa": 24,
+          "gem": "espaco"
+        },
+        {
+          "num": 163,
+          "key": "e24_err_C",
+          "tipo": "erro",
+          "next": 73,
+          "etapa": 24,
+          "gem": "espaco"
+        },
+        {
+          "num": 164,
+          "key": "e24_err_D",
+          "tipo": "erro",
+          "next": 73,
+          "etapa": 24,
+          "gem": "espaco"
+        },
+        {
+          "num": 165,
+          "key": "e25_err_B",
+          "tipo": "erro",
+          "next": 75,
+          "etapa": 25,
+          "gem": "espaco"
+        },
+        {
+          "num": 166,
+          "key": "e25_err_C",
+          "tipo": "erro",
+          "next": 75,
+          "etapa": 25,
+          "gem": "espaco"
+        },
+        {
+          "num": 167,
+          "key": "e25_err_D",
+          "tipo": "erro",
+          "next": 75,
+          "etapa": 25,
+          "gem": "espaco"
+        }
+      ],
+      "etapas": [
+        {
+          "n": 1,
+          "gem": "poder",
+          "slide": 15,
+          "ok": 16,
+          "erros": [
+            93,
+            94,
+            95
+          ],
+          "certa": "C"
+        },
+        {
+          "n": 2,
+          "gem": "poder",
+          "slide": 17,
+          "ok": 18,
+          "erros": [
+            96,
+            97,
+            98
+          ],
+          "certa": "A"
+        },
+        {
+          "n": 3,
+          "gem": "poder",
+          "slide": 19,
+          "ok": 20,
+          "erros": [
+            99,
+            100,
+            101
+          ],
+          "certa": "D"
+        },
+        {
+          "n": 4,
+          "gem": "poder",
+          "slide": 21,
+          "ok": 22,
+          "erros": [
+            102,
+            103,
+            104
+          ],
+          "certa": "B"
+        },
+        {
+          "n": 5,
+          "gem": "poder",
+          "slide": 23,
+          "ok": 24,
+          "erros": [
+            105,
+            106,
+            107
+          ],
+          "certa": "B"
+        },
+        {
+          "n": 6,
+          "gem": "poder",
+          "slide": 25,
+          "ok": 26,
+          "erros": [
+            108,
+            109,
+            110
+          ],
+          "certa": "D"
+        },
+        {
+          "n": 7,
+          "gem": "poder",
+          "slide": 27,
+          "ok": 28,
+          "erros": [
+            111,
+            112,
+            113
+          ],
+          "certa": "A"
+        },
+        {
+          "n": 8,
+          "gem": "tempo",
+          "slide": 35,
+          "ok": 36,
+          "erros": [
+            114,
+            115,
+            116
+          ],
+          "certa": "C"
+        },
+        {
+          "n": 9,
+          "gem": "tempo",
+          "slide": 37,
+          "ok": 38,
+          "erros": [
+            117,
+            118,
+            119
+          ],
+          "certa": "D"
+        },
+        {
+          "n": 10,
+          "gem": "tempo",
+          "slide": 39,
+          "ok": 40,
+          "erros": [
+            120,
+            121,
+            122
+          ],
+          "certa": "C"
+        },
+        {
+          "n": 11,
+          "gem": "tempo",
+          "slide": 41,
+          "ok": 42,
+          "erros": [
+            123,
+            124,
+            125
+          ],
+          "certa": "B"
+        },
+        {
+          "n": 12,
+          "gem": "tempo",
+          "slide": 43,
+          "ok": 44,
+          "erros": [
+            126,
+            127,
+            128
+          ],
+          "certa": "A"
+        },
+        {
+          "n": 13,
+          "gem": "tempo",
+          "slide": 45,
+          "ok": 46,
+          "erros": [
+            129,
+            130,
+            131
+          ],
+          "certa": "A"
+        },
+        {
+          "n": 14,
+          "gem": "tempo",
+          "slide": 47,
+          "ok": 48,
+          "erros": [
+            132,
+            133,
+            134
+          ],
+          "certa": "B"
+        },
+        {
+          "n": 15,
+          "gem": "tempo",
+          "slide": 49,
+          "ok": 50,
+          "erros": [
+            135,
+            136,
+            137
+          ],
+          "certa": "C"
+        },
+        {
+          "n": 16,
+          "gem": "tempo",
+          "slide": 51,
+          "ok": 52,
+          "erros": [
+            138,
+            139,
+            140
+          ],
+          "certa": "D"
+        },
+        {
+          "n": 17,
+          "gem": "espaco",
+          "slide": 59,
+          "ok": 60,
+          "erros": [
+            141,
+            142,
+            143
+          ],
+          "certa": "C"
+        },
+        {
+          "n": 18,
+          "gem": "espaco",
+          "slide": 61,
+          "ok": 62,
+          "erros": [
+            144,
+            145,
+            146
+          ],
+          "certa": "D"
+        },
+        {
+          "n": 19,
+          "gem": "espaco",
+          "slide": 63,
+          "ok": 64,
+          "erros": [
+            147,
+            148,
+            149
+          ],
+          "certa": "A"
+        },
+        {
+          "n": 20,
+          "gem": "espaco",
+          "slide": 65,
+          "ok": 66,
+          "erros": [
+            150,
+            151,
+            152
+          ],
+          "certa": "B"
+        },
+        {
+          "n": 21,
+          "gem": "espaco",
+          "slide": 67,
+          "ok": 68,
+          "erros": [
+            153,
+            154,
+            155
+          ],
+          "certa": "D"
+        },
+        {
+          "n": 22,
+          "gem": "espaco",
+          "slide": 69,
+          "ok": 70,
+          "erros": [
+            156,
+            157,
+            158
+          ],
+          "certa": "A"
+        },
+        {
+          "n": 23,
+          "gem": "espaco",
+          "slide": 71,
+          "ok": 72,
+          "erros": [
+            159,
+            160,
+            161
+          ],
+          "certa": "C"
+        },
+        {
+          "n": 24,
+          "gem": "espaco",
+          "slide": 73,
+          "ok": 74,
+          "erros": [
+            162,
+            163,
+            164
+          ],
+          "certa": "B"
+        },
+        {
+          "n": 25,
+          "gem": "espaco",
+          "slide": 75,
+          "ok": 76,
+          "erros": [
+            165,
+            166,
+            167
+          ],
+          "certa": "A"
+        }
+      ]
+    }
+  ]
+}
